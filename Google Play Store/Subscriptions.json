@@ -1,0 +1,62 @@
+[{
+  "subscription": {
+    "doc": {
+      "documentType": "Subscription",
+      "title": "VIU Premium - Malaysia Monthly (Viu: Dramas, TV Shows \u0026 Movies)"
+    },
+    "pricing": [{
+      "period": {
+        "unit": "WEEK",
+        "count": 1
+      },
+      "price": "MYR 2.90",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "MYR 14.90",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2022-12-23T10:58:05.586Z",
+      "type": "Cancel",
+      "cancelRecord": {
+        "userCancellationReason": "Not enough usage"
+      }
+    }],
+    "state": "Canceled"
+  }
+},
+{
+  "subscription": {
+    "doc": {
+      "documentType": "Subscription",
+      "title": "VIU Premium - Malaysia Monthly (Viu: Dramas, TV Shows \u0026 Movies)"
+    },
+    "pricing": [{
+      "period": {
+        "unit": "WEEK",
+        "count": 1
+      },
+      "price": "MYR 2.90",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "MYR 14.90",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2022-12-23T10:58:05.586Z",
+      "type": "Cancel",
+      "cancelRecord": {
+        "userCancellationReason": "Not enough usage"
+      }
+    }],
+    "state": "Canceled"
+  }
+}]

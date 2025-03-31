@@ -1,0 +1,117 @@
+{
+  "createdTime": "2020-05-25T11:24:28.521Z",
+  "modifiedTime": "2025-03-22T20:14:12.272Z",
+  "deviceSettings": [{
+    "deviceTag": 711234791,
+    "reportingEnabled": false,
+    "legalCountryCode": "my",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2025-03-16T08:31:52.008Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2025-03-16T08:31:52.008Z"
+    },
+    "iosVersion": "18.3.1",
+    "deviceSpec": {
+      "device": "iPhone12,1"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": 1365801031,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A155F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2025-03-07T20:05:48.757Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2025-03-07T20:05:48.757Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a15nsxx",
+      "device": "a15",
+      "model": "SM-A155F",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": -990153513,
+    "reportingEnabled": false,
+    "devicePrettyName": "STK-L22",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-09-21T16:50:55.219Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-09-21T16:50:55.219Z"
+    },
+    "androidOsLevel": 29,
+    "deviceSpec": {
+      "manufacturer": "HUAWEI",
+      "brand": "HUAWEI",
+      "product": "STK-L22",
+      "device": "HWSTK-HF",
+      "model": "STK-L22",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 2111772674,
+    "reportingEnabled": false,
+    "legalCountryCode": "my",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-12-05T13:56:14.889Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-12-05T13:56:14.889Z"
+    },
+    "iosVersion": "18.3.1",
+    "deviceSpec": {
+      "device": "iPhone12,1"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }],
+  "hasReportedLocations": false,
+  "hasSetRetention": false,
+  "storeVisitControl": {
+    "enabled": false,
+    "updateTime": "2025-03-22T20:14:12.272359796Z"
+  },
+  "timelineEditUploadsControl": {
+    "enabled": true,
+    "updateTime": "2025-03-22T20:14:03.683210755Z"
+  },
+  "encryptedBackupsControls": {
+    "-990153513": {
+      "enabled": false
+    },
+    "711234791": {
+      "enabled": false
+    },
+    "1365801031": {
+      "enabled": false
+    },
+    "2111772674": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 90,
+    "updateTime": "2024-05-13T06:49:44.153548798Z"
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-04-30T10:17:54.433Z",
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2025-03-21T15:22:00.954Z"
+  },
+  "googleOpinionRewardsControl": {
+    "enabled": false,
+    "updateTime": "2024-08-01T14:14:56.018619012Z"
+  }
+}

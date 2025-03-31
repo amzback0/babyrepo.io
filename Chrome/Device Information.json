@@ -1,0 +1,96 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome ANDROID-PHONE 134.0.6998.135 (ce0f328d1efe65e6be766d7219387fff567ffdf5-refs/branch-heads/6998_108@{#3}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "134.0.6998.135"},
+            "signin_scoped_device_id": "f3bc3858-64fe-4058-aa6d-3e028fd8e3dc",
+            "manufacturer": "samsung",
+            "cache_guid": "OjpZzJsRKD1MK+3v5rb/kw==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "send_tab_to_self_receiving_enabled": true
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "e4RsQj_Pk2E:APA91bFuvn2TrwzBqO3GILM3SCWWAaPkBdEbHi3fjKiiSpGGOB3vmLYAO_YjM_IdHAmpUEciXppgQucljrzWt_Y2xdXSEFvartddLHptRaNEg1zhPF7MV-8",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    1164238,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    1033580,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    1034378,
+                                    1004874,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1742987506009,
+            "model": "SM-A155F",
+            "client_name": "SM-A155F",
+            "chrome_version": "134.0.6998.135"
+},
+        {
+            "cache_guid": "kjr1BK+gk+6EklRRSWugGQ==",
+            "google_play_services_version_info": {"apk_version_name": "250934029"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "d5ZTTd3s6w0:APA91bE-peGP4HxOtmP1AqRQphOKcD4La7AO3JEMJwI03M8XDyfkdWZDflgPz0w6fPwH_nnbocSYzI1z00XcU3SlpI06Vvl1rOnmXCNNePgeZd4bhP7rJmc",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    45873,
+                                    306270,
+                                    895275,
+                                    330441,
+                                    1141935,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1742809523027,
+            "device_type": "TYPE_PHONE",
+            "model": "SM-A155F",
+            "client_name": "SM-A155F",
+            "manufacturer": "samsung"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 132.0.6834.154 (51e95a1fc78ad8ec5dbf73f443a00c434f99a069-refs/branch-heads/6834@{#4140}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "132.0.6834.154"},
+            "signin_scoped_device_id": "7a5c1dc4-b8e6-4c4e-a76a-f82d9b1e0e2c",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "t3H4ekgr7Ma3urQULgpRpA==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "send_tab_to_self_receiving_enabled": false
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "eS7bjg4p2Sg:APA91bHVzNLadbuwsSqDHJSMisCZg0RabCsdz3HcUBr_ifYLfvn-OJkxbyyKsJseg1IULqKZjVJmgFuDtNvlJdUv1rqlT55z0Cc7LR-GbWhYmqQhazSgHOg",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    330441,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1739443481445,
+            "model": "iPhone12,1",
+            "client_name": "iPhone12,1",
+            "chrome_version": "132.0.6834.154"
+}
+    ]
+}

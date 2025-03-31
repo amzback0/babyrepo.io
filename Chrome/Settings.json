@@ -1,0 +1,120 @@
+{
+    "App Settings": [],
+    "App Lists": [],
+    "Search Engines": [],
+    "Apps": [],
+    "Preferences": [
+        {
+            "name": "sync.demographics_birth_year_offset",
+            "value": "-2"
+},
+        {
+            "name": "browser.clear_data.form_data",
+            "value": "true"
+},
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"id\":true,\"ms\":true}"
+},
+        {
+            "name": "browser.clear_data.time_period_basic",
+            "value": "4"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"en\""
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-GB,en-US,en\""
+},
+        {
+            "name": "browser.clear_data.site_settings",
+            "value": "true"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"7kaEkZqJUCsIRjIpPZzQtw==\":{\"device_auth_secret\":\"zu3WRP6z7ZL3JUWJTT/V4g==\",\"device_capabilities\":3,\"device_fcm_token\":\"eM2z0V5IcG0:APA91bHwbjQPFQfnmrJZTCgXmuEIb8MOfYgebQiuceuOw-pM47LaweMDgRQy_Wux3HAYnpJ-rrcHXzkpEGGhD3Tt111PfTftt4jAqyKRbW9eP7QJX1KokLu3T5TAEoEMujPou_YKdnO6\",\"device_p256dh\":\"BD60gDaRAOI34e6+5ZUJ2LOOTOEeLDtB6NJSpCDptw26rC5sBqrrAZT+YkVruNw+J35SESE0caJC5Ap9n8b+y8A=\"},\"BVV8TuSvPO5KeTad3BlGgg==\":{\"device_auth_secret\":\"U3kr9t2TmtaxDF7cs18AFA==\",\"device_capabilities\":3,\"device_fcm_token\":\"dcNBsWMMc_I:APA91bGPYL15R1-q3C08g8GAZpNKiRMsVVf-Y2Vp2JMAGlHaYomExhaI-2-POFkewoijDBVOfWT5SFxYKCgB6Gjoxch7SPw6ZDATdpQUQAQCJz702Ghw0z4n8fD3x9Pt_wwiKsXte7hA\",\"device_p256dh\":\"BFUMd9mC2LVqcv4QQbGDIbpc3FZS7Q4ZPUBrPosUkenVhmdy5Dj3XuHtxpXBxHtbUnzZ0AsH8OBIcWklh/kYy0o=\"}}"
+},
+        {
+            "name": "autofill.last_version_deduped",
+            "value": "134"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"ms\":0}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"id\":12,\"ms\":17,\"my\":1}"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"id\":0,\"ms\":0,\"my\":0}"
+},
+        {
+            "name": "profile.cookie_controls_mode",
+            "value": "2"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13238904849756292\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgNRk9qCg2lgUDkPs5gywo5wzUUVE2WqetHCPK0oj+Nm2hRANCAAQaNS3gRPr+5uFaKW/MeqXNFz+0Vy0pUR4KdXVSfsVnG6/U6+bmno5YnwdiE8tX5JPQ1MBwT51ORk3KZhp2wZI2\"}"
+},
+        {
+            "name": "browser.clear_data.time_period",
+            "value": "4"
+},
+        {
+            "name": "privacy_sandbox.fake_notice.prompt_shown_time_sync",
+            "value": "\"13386337629195502\""
+},
+        {
+            "name": "download.prompt_for_download_android",
+            "value": "2"
+},
+        {
+            "name": "translate_site_blocklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"en-GB,en-US,en\""
+},
+        {
+            "name": "enable_do_not_track",
+            "value": "true"
+}
+    ],
+    "Themes": [],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "credentials_need_first_time_welcome",
+            "value": "false"
+}},
+        {"preference": {
+            "name": "credentials_password_manager_warm_welcome_last_seen",
+            "value": "2024-11-06T19:38:16.873769Z"
+}},
+        {"preference": {
+            "name": "credentials_enable_sync",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "sync.demographics",
+            "value": "{\"gender\":2,\"birth_year\":2002}"
+}}
+    ],
+    "Web Apps": []
+}
